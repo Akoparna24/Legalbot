@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "API key"
 completion = openai.Completion()
 
 start_sequence = "\nLegalbot:"
